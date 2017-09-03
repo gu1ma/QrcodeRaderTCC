@@ -1,3 +1,0 @@
-/home/guima/TCC/Arquivos_de_estudo/Código_TCC/rsa_com_libsodium/codigo/build/CMakeFiles/edit_cache.dir
-/home/guima/TCC/Arquivos_de_estudo/Código_TCC/rsa_com_libsodium/codigo/build/CMakeFiles/rebuild_cache.dir
-/home/guima/TCC/Arquivos_de_estudo/Código_TCC/rsa_com_libsodium/codigo/build/CMakeFiles/teste1.dir
