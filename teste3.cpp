@@ -1,4 +1,4 @@
-//Bibliotecas nativas do sistema
+//Bibliotecas nativas
 #include <iostream>
 #include <fstream>
 #include <string.h>
@@ -159,7 +159,7 @@ int main(int argc, char *argv[]){
     //encryptFile("file-example.txt", "file-example-enc.txt", "camera");
     //decryptFile("file-example-enc.txt", "file-example-dec.txt", "camera");
     //generateQrCode("qrCode1", "file-example-enc.txt");
-    readQrCode(argc, argv, "file-example-enc.txt", "file-example-dec.txt", "camera");
+    //readQrCode(argc, argv, "file-example-enc.txt", "file-example-dec.txt", "camera");
     //
 
 	return 0;

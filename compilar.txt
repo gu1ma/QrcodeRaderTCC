@@ -1,1 +1,0 @@
-g++ -o teste teste1.cpp -lzbar `pkg-config --cflags --libs opencv libsodium`
