@@ -17,3 +17,9 @@ https://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html
 ``` g++ -o teste3 teste3.cpp -lzbar `pkg-config --cflags --libs opencv` ```
 ### Run 
 `./teste3`
+
+### To apply image corrections, type h -> to histogram esqualizaton, s to segmentation image (Otsu) or q to apply histogram equalization and image segmentation for correct reading on low light environments.
+
+### Examples 
+> Results on low light environments
+
