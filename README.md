@@ -21,5 +21,12 @@ https://docs.opencv.org/trunk/d7/d9f/tutorial_linux_install.html
 > To apply image corrections, type h -> to histogram esqualizaton, s to segmentation image (Otsu) or q to apply histogram equalization and image segmentation for correct reading on low light environments.
 
 ### Examples 
-> Results on low light environments
+> Original QR Code
 
+![Alt text](https://github.com/gu1ma/qrcode-reader/blob/master/results-examples/qrcode-subexposto.jpg "Original QR Code")
+> QR Code after histogram equalization
+
+![Alt text](https://github.com/gu1ma/qrcode-reader/blob/master/results-examples/qrcode-apos-histograma.jpg "Equalized QR Code")
+> QR code after histogram equalization and Otsu segmentation
+
+![Alt text](https://github.com/gu1ma/qrcode-reader/blob/master/results-examples/qrcode-apos-histograma-e-segmentacao.jpg "Equalized/Segmented QR Code")
